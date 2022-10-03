@@ -1,0 +1,41 @@
+.Work__Page {
+ 
+    height:100vh;
+}
+
+.logo-photo{
+    height:20px;
+    background-color: blue;
+    display:flex;
+}
+
+.logo-photo > img{
+margin-top:10%;
+    height:500px;
+    margin-left:15%;
+}
+
+.Work-text{
+    margin-top:15%;
+    width:50%;
+    margin-left:5%;
+    
+    font-family: 'Roboto', sans-serif;
+    color:#a3a3a3;
+    background:red;
+}
+
+#explanatory-text{
+    font-family: 'Roboto', sans-serif;
+    color:#a3a3a3;
+    width:70%;
+   
+
+}
+
+.Work-text-explanatory{
+   
+    margin-left:25%;
+}
+
+
